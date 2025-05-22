@@ -1,0 +1,55 @@
+
+.header{
+    padding: 42px 0 40px;
+    border-bottom: 1px solid #dcdcf3;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main{
+    padding-top: 190px;
+    padding-bottom: 231px;
+}
+.main .container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.main-content{
+    max-width: 588px;
+
+}
+
+.main-description{
+    margin-top: 40px;
+    line-height: 24px;
+    max-width: 486px;
+    font-size: 20px;
+    color: #333;
+}
+.main-button{
+    margin-top: 60px;
+}
+.button{
+    font-size: 17px;
+    line-height: 20px;
+    color: #fff;
+    border-radius: 6px;
+    padding: 14px 35px;
+    background: #6933dc;
+    border: 0;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+
+.footer{
+    text-align: center;
+    padding: 40px 0;
+    font-size: 13px;
+    line-height: 16px;
+    color: #dcdcf3;
+
+}
